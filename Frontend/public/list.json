@@ -1,0 +1,125 @@
+[
+    
+      {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149320038.jpg?t=st=1726063767~exp=1726067367~hmac=aea18c53c0a640cf244d5864ac724fb5d42d69714bbb6de9fe39a1bd72c31871&w=740"
+      },
+      {
+        "id": 2,
+        "name": "Drama Book",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price": 50,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149320038.jpg?t=st=1726063767~exp=1726067367~hmac=aea18c53c0a640cf244d5864ac724fb5d42d69714bbb6de9fe39a1bd72c31871&w=740"
+      },
+      {
+        "id": 3,
+        "name": "Adventure Tales",
+        "title": "Discover wild adventures across the globe.",
+        "price": 70,
+        "category": "Adventure",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149320038.jpg?t=st=1726063767~exp=1726067367~hmac=aea18c53c0a640cf244d5864ac724fb5d42d69714bbb6de9fe39a1bd72c31871&w=740"
+      },
+      {
+        "id": 4,
+        "name": "History Book",
+        "title": "Learn about the great civilizations.",
+        "price": 40,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149320038.jpg?t=st=1726063767~exp=1726067367~hmac=aea18c53c0a640cf244d5864ac724fb5d42d69714bbb6de9fe39a1bd72c31871&w=740"
+      },
+      {
+        "id": 5,
+        "name": "Science Book",
+        "title": "Explore the mysteries of the universe.",
+        "price": 80,
+        "category": "Science",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149320038.jpg?t=st=1726063767~exp=1726067367~hmac=aea18c53c0a640cf244d5864ac724fb5d42d69714bbb6de9fe39a1bd72c31871&w=740"
+      },
+      {
+        "id": 6,
+        "name": "Fantasy Novel",
+        "title": "Dive into a world of magic and mystery.",
+        "price": 60,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149320038.jpg?t=st=1726063767~exp=1726067367~hmac=aea18c53c0a640cf244d5864ac724fb5d42d69714bbb6de9fe39a1bd72c31871&w=740"
+      },
+      {
+        "id": 7,
+        "name": "Mystery Book",
+        "title": "Unravel the greatest mysteries ever told.",
+        "price": 55,
+        "category": "Mystery",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149320038.jpg?t=st=1726063767~exp=1726067367~hmac=aea18c53c0a640cf244d5864ac724fb5d42d69714bbb6de9fe39a1bd72c31871&w=740"
+      },
+      {
+        "id": 8,
+        "name": "Biography Book",
+        "title": "The inspiring stories of remarkable people.",
+        "price": 65,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149320038.jpg?t=st=1726063767~exp=1726067367~hmac=aea18c53c0a640cf244d5864ac724fb5d42d69714bbb6de9fe39a1bd72c31871&w=740"
+      },
+      {
+        "id": 9,
+        "name": "Self-Help Guide",
+        "title": "Achieve success and happiness in life.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149320038.jpg?t=st=1726063767~exp=1726067367~hmac=aea18c53c0a640cf244d5864ac724fb5d42d69714bbb6de9fe39a1bd72c31871&w=740"
+      },
+      {
+        "id": 10,
+        "name": "Philosophy Book",
+        "title": "Delve into the thoughts of the greatest minds.",
+        "price": 75,
+        "category": "Philosophy",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149320038.jpg?t=st=1726063767~exp=1726067367~hmac=aea18c53c0a640cf244d5864ac724fb5d42d69714bbb6de9fe39a1bd72c31871&w=740"
+      },
+      {
+        "id": 11,
+        "name": "Poetry Book",
+        "title": "A collection of beautiful and timeless poems.",
+        "price": 30,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149320038.jpg?t=st=1726063767~exp=1726067367~hmac=aea18c53c0a640cf244d5864ac724fb5d42d69714bbb6de9fe39a1bd72c31871&w=740"
+      },
+      {
+        "id": 12,
+        "name": "Travel Guide",
+        "title": "Explore the hidden gems of the world.",
+        "price": 90,
+        "category": "Travel",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149320038.jpg?t=st=1726063767~exp=1726067367~hmac=aea18c53c0a640cf244d5864ac724fb5d42d69714bbb6de9fe39a1bd72c31871&w=740"
+      },
+      {
+        "id": 13,
+        "name": "Cooking Recipes",
+        "title": "Delicious recipes from around the globe.",
+        "price": 35,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149320038.jpg?t=st=1726063767~exp=1726067367~hmac=aea18c53c0a640cf244d5864ac724fb5d42d69714bbb6de9fe39a1bd72c31871&w=740"
+      },
+      {
+        "id": 14,
+        "name": "Art & Design",
+        "title": "A creative journey through the world of art.",
+        "price": 45,
+        "category": "Art",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149320038.jpg?t=st=1726063767~exp=1726067367~hmac=aea18c53c0a640cf244d5864ac724fb5d42d69714bbb6de9fe39a1bd72c31871&w=740"
+      },
+      {
+        "id": 15,
+        "name": "Programming Book",
+        "title": "Master the art of coding with practical examples.",
+        "price": 100,
+        "category": "Technology",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149320038.jpg?t=st=1726063767~exp=1726067367~hmac=aea18c53c0a640cf244d5864ac724fb5d42d69714bbb6de9fe39a1bd72c31871&w=740"
+      }
+    
+
+]

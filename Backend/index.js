@@ -19,7 +19,11 @@ const mongodbURL = process.env.mongodbURL;
 
 // connect to mongodb
 try {
-  mongoose.connect(mongodbURL, {});
+  mongoose.connect(mongodbURL, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    ssl: true,
+  });
   console.log("connected to mongodb");
 } catch (error) {
   console.log("error", error);

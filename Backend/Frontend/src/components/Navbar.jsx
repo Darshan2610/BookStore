@@ -95,7 +95,7 @@ function Navbar() {
                 {navItems}
               </ul>
             </div>
-            <Link to='/' className=" text-2xl font-bold cursor-pointer">ChapterWise</Link>
+            <Link to='/' className=" text-2xl font-bold cursor-pointer">ChapterWize</Link>
           </div>
           <div className="navbar-end space-x-3">
             <div className="navbar-center hidden lg:flex">

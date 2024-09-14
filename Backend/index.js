@@ -1,16 +1,16 @@
 import express from "express";
 import dotenv from "dotenv";
 import mongoose from "mongoose";
-import cors from 'cors'
-
+import cors from "cors";
+import path from "path";
 
 import bookRoute from "./route/book.route.js";
 import userRoute from "./route/user.route.js";
+import exp from "constants";
 
-import { login } from "./controller/user.controller.js";
 const app = express();
 app.use(express.json());
-app.use(cors())
+app.use(cors());
 
 dotenv.config();
 
@@ -28,8 +28,15 @@ try {
 //defining routes
 
 app.use("/book", bookRoute);
-app.use('/user', userRoute);
+app.use("/user", userRoute);
 
+if (process.env.NODE_ENV === "production") {
+  const dirPath = path.resolve();
+  app.use(express.static("Frontend/dist"));
+  app.get("*", (req, res) => {
+    res.sendFile(path.resolve(dirPath, "Frontend", "dist", "index.html"));
+  });
+}
 
 app.listen(port, () => {
   console.log(`server running on port ${port}`);
